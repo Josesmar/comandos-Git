@@ -185,7 +185,7 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 
 ### Vincular repositório local com um repositório remoto
 
-	git remote add origin git@github.com:Josesmar/tudoSobre-git.git
+	git remote add origin git@github.com:Josesmar/comandos-Git.git
 	
 ### Exibir informações dos repositórios remotos
 
@@ -222,7 +222,7 @@ Os demais **pushes** não precisam dessa informação
 	
 ### Clonar um repositório remoto já existente
 
-	git clone git@github.com:Josesmar/tudoSobre-git.git
+	git clone git@github.com:Josesmar/comandos-Git.git
 	
 ### Tags
 
@@ -445,5 +445,3 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 # Contribuições
 
 Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. 
-
-
